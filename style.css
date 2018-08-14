@@ -1,0 +1,13 @@
+img {
+  width: 200px;
+}
+
+#title {
+  color: gray;
+}
+
+.green {
+  color: black;
+  font-size: 10px;
+  font-family: serif;
+}
